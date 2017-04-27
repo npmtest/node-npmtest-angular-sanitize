@@ -35,29 +35,21 @@
 ```json
 
 {
-    "name": "angular-sanitize",
-    "version": "1.6.4",
-    "description": "AngularJS module for sanitizing HTML",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "author": {
+        "name": "Angular Core Team"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/angular/angular.js.git"
-    },
-    "keywords": [
-        "angular",
-        "framework",
-        "browser",
-        "html",
-        "client-side"
-    ],
-    "author": "Angular Core Team <angular-core+npm@google.com>",
-    "license": "MIT",
     "bugs": {
         "url": "https://github.com/angular/angular.js/issues"
     },
+    "dependencies": {},
+    "description": "AngularJS module for sanitizing HTML",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "60a37ea96fb0d4a322a3ccb64ee4a5cf3b154f0c",
+        "tarball": "https://registry.npmjs.org/angular-sanitize/-/angular-sanitize-1.6.4.tgz"
+    },
+    "gitHead": "8fd69d2b0f451b39ab324ff9a8df51e5fec4355a",
     "homepage": "http://angularjs.org",
     "jspm": {
         "shim": {
@@ -68,6 +60,33 @@
             }
         }
     },
+    "keywords": [
+        "angular",
+        "framework",
+        "browser",
+        "html",
+        "client-side"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "maintainers": [
+        {
+            "name": "angularcore"
+        },
+        {
+            "name": "petebd"
+        }
+    ],
+    "name": "angular-sanitize",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/angular/angular.js.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.6.4",
     "bin": {}
 }
 ```
